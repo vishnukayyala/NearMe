@@ -16,7 +16,8 @@ Download your city map from Google.
 Using ```<map>``` tag name the map.
 
 ### STEP 4
-Create clickable regions in the image using ```<area>``` tag.
+Create clickable regions in the image using ```<area>``` tag.![
+
 
 ### STEP 5
 Write HTML programs for all the regions identified.
@@ -169,9 +170,12 @@ thiru.html
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-05-15 131324.png>)
-![alt text](<Screenshot 2025-05-15 132015.png>)
-![alt text](<Screenshot 2025-05-15 132031-1.png>)
+![Screenshot 2025-05-15 193544](https://github.com/user-attachments/assets/1833e8c6-1cf7-4886-9386-a0c7078021b6)
+![Screenshot 2025-05-15 193554](https://github.com/user-attachments/assets/ce653f38-ae33-45a4-8eb2-59711f8f8fb3)
+![Screenshot 2025-05-15 193604](https://github.com/user-attachments/assets/2bd9431e-6dd5-4dac-85ca-04d3a5779a7d)
+
+
+
 
 
 
